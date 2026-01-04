@@ -1,0 +1,37 @@
+#header{
+    display: flex;
+    align-items: center;
+    background-color:gainsboro;
+    justify-content: space-between;
+    padding: 20px 80px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+#navbar{
+        display: flex;
+         align-items: center;
+         justify-content: center;
+        
+         
+}
+
+
+#navbar li{
+        list-style: none;
+        padding: 0 20px;
+
+        
+}
+#navbar li :hover{
+        color:red;
+}
+
+#shop img{
+        height:1000px;
+        width: 1000px;
+       float:right
+}
+#shop1{
+        color:green;
+       float:left;
+}
